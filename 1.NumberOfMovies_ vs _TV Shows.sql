@@ -1,0 +1,1 @@
+SELECT type, count(*) as total_content FROM netflix GROUP BY type
